@@ -4,6 +4,16 @@ time on various rental platforms. You need to estimate the typical price for a g
 on the price of similar properties. Your company receives new data in bulk every week. The model needs 
 to be retrained with the same cadence, necessitating an end-to-end pipeline that can be reused.
 
+## My W&B project 
+Click [here](https://wandb.ai/soyaoki/nyc_airbnb) or W&B logo.
+
+<div id="badges">
+  <a href="https://wandb.ai/soyaoki/nyc_airbnb">
+    <img src="https://img.shields.io/badge/Weights_&_Biases-FFCC33?style=for-the-badge&logo=WeightsAndBiases&logoColor=black" />  
+  <a/>
+</div>
+<br />
+
 In this project you will build such a pipeline.
 
 ## Table of contents
